@@ -17,6 +17,10 @@ Execução:
 - Clone ou faça o download do código-fonte.
 - Descompacte os arquivos em uma pasta de sua escolha.
 - Abra a pasta do aplicativo Web em sua IDE preferida, como o Visual Studio Code.
+
+  ![WhatsApp Image 2024-03-13 at 09 58 04](https://github.com/Wfelipetm/Hub_IoT/assets/108297008/de1121a6-dcef-4e95-8734-1af3fb771989)
+
+  
 ## 2. Adicionar Grupo de Consumidores ao Hub IoT
 - Execute o seguinte comando na CLI do Azure para adicionar um grupo de consumidores ao ponto de extremidade interno do hub IoT: az iot hub consumer-group create --hub-name YOUR_IOT_HUB_NAME --name YOUR_CONSUMER_GROUP_NAME
 ## Execução:
@@ -29,7 +33,7 @@ Execução:
 
 
 
-![WhatsApp Image 2024-03-13 at 09 58 04](https://github.com/Wfelipetm/Hub_IoT/assets/108297008/de1121a6-dcef-4e95-8734-1af3fb771989)
+
 
 ![WhatsApp Image 2024-03-13 at 09 33 48](https://github.com/Wfelipetm/Hub_IoT/assets/108297008/eb4caf48-7fc2-414e-9370-a975b39ff0a6)
 
