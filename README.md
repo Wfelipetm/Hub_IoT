@@ -58,3 +58,19 @@ $env:EventHubConsumerGroup = "YOUR_CONSUMER_GROUP_NAME"
 ![WhatsApp Image 2024-03-13 at 09 33 48](https://github.com/Wfelipetm/Hub_IoT/assets/108297008/eb4caf48-7fc2-414e-9370-a975b39ff0a6)
 
 
+
+## 4. Hospedar o Aplicativo na Nuvem Azure
+
+Provisione um plano de Serviço de Aplicativo e um aplicativo web no Serviço de Aplicativo do Azure utilizando os comandos da CLI do Azure.
+
+Criando um plano do Serviço de Aplicativo:
+
+Utilize o comando az appservice plan create para criar um novo plano do Serviço de Aplicativo usando o nível gratuito do Windows.
+
+
+
+
+![WhatsApp Image 2024-03-13 at 11 50 16](https://github.com/Wfelipetm/Hub_IoT/assets/108297008/930c32f1-0dbb-46d5-9771-ad4badb4a031)
+
+
+
