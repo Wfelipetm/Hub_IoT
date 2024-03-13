@@ -29,6 +29,22 @@ Execução:
 
 
 
+## 3. variáveis de ambiente
+
+Utilize os comandos abaixo na janela de comando para definir as variáveis de ambiente:
+
+set IotHubConnectionString=YOUR_IOT_HUB_CONNECTION_STRING
+
+set EventHubConsumerGroup=YOUR_CONSUMER_GROUP_NAME
+
+PowerShell :
+
+$env:IotHubConnectionString = "YOUR_IOT_HUB_CONNECTION_STRING"
+
+$env:EventHubConsumerGroup = "YOUR_CONSUMER_GROUP_NAME"
+
+
+
 
 
 
