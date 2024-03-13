@@ -7,11 +7,9 @@ Este documento fornece um roteiro de prática para configurar e executar um apli
 
 Link: https://webfullstackiot.azurewebsites.net/
 
-Link Será retirado, logo após a correção do Projeto.
-
-Video do projeto em execução:
+Execução:
 ![image](https://github.com/Wfelipetm/Hub_IoT/assets/108297008/bfc1392e-3591-450f-b9ba-47f1038df6ab)
-
+![WhatsApp Image 2024-03-13 at 09 32 17](https://github.com/Wfelipetm/Hub_IoT/assets/108297008/25015091-622d-40f2-a3b8-4fb3dba2d9f9)
 
 ## Procedimentos
 - Antes Precisa criar hub IOT no azure
@@ -35,7 +33,7 @@ Video do projeto em execução:
 
 
 ![WhatsApp Image 2024-03-13 at 09 58 04](https://github.com/Wfelipetm/Hub_IoT/assets/108297008/de1121a6-dcef-4e95-8734-1af3fb771989)
-![WhatsApp Image 2024-03-13 at 09 32 17](https://github.com/Wfelipetm/Hub_IoT/assets/108297008/25015091-622d-40f2-a3b8-4fb3dba2d9f9)
+
 ![WhatsApp Image 2024-03-13 at 09 33 48](https://github.com/Wfelipetm/Hub_IoT/assets/108297008/eb4caf48-7fc2-414e-9370-a975b39ff0a6)
 
 
