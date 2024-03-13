@@ -25,17 +25,21 @@ Execução:
 - Execute o seguinte comando na CLI do Azure para adicionar um grupo de consumidores ao ponto de extremidade interno do hub IoT: az iot hub consumer-group create --hub-name YOUR_IOT_HUB_NAME --name YOUR_CONSUMER_GROUP_NAME
 ## Execução:
 
+
+
 ![WhatsApp Image 2024-03-13 at 09 54 58](https://github.com/Wfelipetm/Hub_IoT/assets/108297008/7f983c75-5a0e-490b-b062-dabc95ab3050)
 
 
 
 ## 3. variáveis de ambiente
 
+
 Utilize os comandos abaixo na janela de comando para definir as variáveis de ambiente:
 
 set IotHubConnectionString=YOUR_IOT_HUB_CONNECTION_STRING
 
 set EventHubConsumerGroup=YOUR_CONSUMER_GROUP_NAME
+
 
 PowerShell :
 
