@@ -3,13 +3,14 @@
  
 
 ## Documentação do Projeto: Visualização de Dados do Azure IoT Hub
-- Este documento fornece um roteiro de prática para configurar e executar um aplicativo web para visualização de dados provenientes do Azure IoT Hub. Siga os passos abaixo para configurar seu ambiente de desenvolvimento e implantar o aplicativo na nuvem Azure.
+Este documento fornece um roteiro de prática para configurar e executar um aplicativo web para visualização de dados provenientes do Azure IoT Hub. Siga os passos abaixo para configurar seu ambiente de desenvolvimento e implantar o aplicativo na nuvem Azure.
 
 Link: https://webfullstackiot.azurewebsites.net/
 
 Link Será retirado, logo após a correção do Projeto.
 
 Video do projeto em execução:
+![image](https://github.com/Wfelipetm/Hub_IoT/assets/108297008/bfc1392e-3591-450f-b9ba-47f1038df6ab)
 
 
 ## Procedimentos
@@ -37,4 +38,4 @@ Video do projeto em execução:
 ![WhatsApp Image 2024-03-13 at 09 32 17](https://github.com/Wfelipetm/Hub_IoT/assets/108297008/25015091-622d-40f2-a3b8-4fb3dba2d9f9)
 ![WhatsApp Image 2024-03-13 at 09 33 48](https://github.com/Wfelipetm/Hub_IoT/assets/108297008/eb4caf48-7fc2-414e-9370-a975b39ff0a6)
 
-![image](https://github.com/Wfelipetm/Hub_IoT/assets/108297008/bfc1392e-3591-450f-b9ba-47f1038df6ab)
+
